@@ -1,0 +1,35 @@
+{
+  "profile": {
+    "img": "https://via.placeholder.com/200x200",
+    "nome": "Bernardo",
+    "sobrenome": "Souza",
+    "cidade": "Barbacena",
+    "estado": "MG",
+    "contato": "(32) 99126-3282",
+    "email": "Bernardocosmedesouza@gmail.com",
+    "biografia": "Percista e nunca desista",
+    "experiencia": [
+      {
+        "id": 1,
+        "cargo": "-",
+        "empresa": "",
+        "periodo": "",
+        "atividades": ""
+      },
+      {
+        "id": 2,
+        "cargo": "",
+        "empresa": "",
+        "periodo": "",
+        "atividades": ""
+      },
+      {
+        "id": 3,
+        "cargo": "",
+        "empresa": "",
+        "periodo": "",
+        "atividades": ""
+      }
+    ]
+  }
+}
